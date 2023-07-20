@@ -1,0 +1,65 @@
+create user interface for online shopping 
+
+principles guidelines usability and conceptual model for designing online shopping interface .
+
+
+Principles
+
+operational simplicity
+strong branding
+security of users’ data
+effective use of visual elements
+clear data presentation via menus, catalogs, etc.
+user’s ability to leave feedback about goods and services
+easily available general and contact information about the business providing goods or services
+design that supports the offer not overshadowing it.
+
+
+Interact with your customers.
+Don't overcomplicate the pages.
+Build a branding concept. 
+Balance usability and aesthetics. 
+Provide straightforward navigation. 
+Be experimental but make informed decisions.
+
+
+Guidelines
+
+Here are some essential user interface design tips:
+
+Do not over design. Limit font formats such as font face, sizes, and colors. When the text looks too much like graphics, it will be mistaken for an ad. Use high-contrast text and background colors to make the content as clear as possible.
+
+Follow the brand identity. 
+
+Adopt visual hierarchy. The most critical content should be displayed above the fold. In some cases, using less white space to bring items closer together is better than pushing critical content below the fold.
+
+Stick to known symbols. Use icons or symbols that are easy to identify. Unfamiliar icons will only confuse the shoppers. A good way to avoid any possible confusion is to provide labels for icons. 
+
+Avoid popup windows. Popup windows are a distraction. Even if they contain valuable information, shoppers are more than likely to dismiss them immediately—once gone, even if they want to, it’s hard for shoppers to find the information again.
+
+Product Quick View
+A “quick view” reduces the time it takes for shoppers to find the right product by eliminating unnecessary page loads. Typically, the product details are displayed in a modal window over the viewed page.
+
+1.Keep navigation simple and functional
+2. Use a linear checkout process
+3. Use clear error indications at check out
+4. Make sure your load time is fast
+5. Automate your search 
+
+usability
+Make navigation a breeze. ...
+The checkout process needs to be streamlined. ...
+Look at your search engine. ...
+The page's load time needs to be optimized. ...
+Optimize for mobile use. ...
+Make it accessible for all users. ...
+Design your pages better. ...
+Focus on A/B Testing.
+
+
+conceptual model 
+
+diagram
+
+
+	

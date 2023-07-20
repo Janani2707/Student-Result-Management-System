@@ -1,0 +1,9 @@
+unit 1 - osi (or) network types
+unit 2 - frame relay (or) flow control, error control
+unit 3 - network layer and its functions
+unit 4 - congestion control
+unit 5 - dns (or) web architecture 
+
+2marks
+1. ipv4 and ipv6
+2. snmp
